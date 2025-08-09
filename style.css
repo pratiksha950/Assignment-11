@@ -1,0 +1,36 @@
+.main-content{
+    display: flex;
+    justify-content: center;
+}
+.part1{
+    height: 350px;
+    width: 450px;
+    border: none;
+    border-radius: 15px;
+}
+.part2{
+    height: 350px;
+    width: 450px;
+    border: none;
+    border-radius: 15px;
+}
+#img1{
+    height:350px;
+    width:350px;
+}
+#img2{
+    height:250px;
+    width:450px;
+}
+.text{
+    text-align: center;
+    color: rgb(13, 151, 151);
+}
+.btn{
+    height: 30px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: rgb(187, 173, 173);
+    margin-left: 40%;
+}
